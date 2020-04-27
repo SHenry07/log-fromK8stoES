@@ -1,0 +1,3 @@
+[submodule "logagent"]
+	path = logagent
+	url = https://github.com/SHenry07/logagent.git
